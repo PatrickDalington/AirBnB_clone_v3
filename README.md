@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-ibrahim balogun https://github.com/IbroDante/AirBnB_clone_v3.git
+ibrahim balogun https://github.com/IbroDante
 
 
 ## License
