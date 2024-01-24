@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-ibrahim balogun https://github.com/IbroDante
+Olumba Patrick https://github.com/patrickdalington
 
 
 ## License
